@@ -1,0 +1,36 @@
+.priImc{
+    width: 700px;
+    height: 600px;
+   border-radius: 5%;
+   background-color: white;
+   padding: 50px;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ .priImc h1{
+    color:black;
+}
+
+input{
+    padding: 10px;
+    border:none;
+    background-color: rgb(59, 59, 59);
+    color: white;
+    margin: 10px;
+}
+
+
+.altura,.peso{
+    font-size: 1.8em;
+}
+
+p{
+    font-size: 1.3em;
+}
+
+.resu{
+    color:  rgb(179, 83, 83);
+}
